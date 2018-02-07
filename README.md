@@ -8,7 +8,7 @@ This design is based on current gold-standard designs of premium-brand
 otoscopes.
 
 The original design and work is by the talented Frankie Talarico. The license
-is CERN OHL where applicable.
+is TAPR OHL where applicable.
 
 
 Bill of Materials
@@ -26,5 +26,5 @@ Coming soon.
 Assembly Instructions
 =====================
 
-Coming soon.
+See [lens assembly](LENS_ASSEMBLY.md) and [otoscope assembly](ASSEMBLY.md)
 
