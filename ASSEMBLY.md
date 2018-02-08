@@ -21,7 +21,7 @@ You will need the following:
   * Clamps ([amazon](https://www.amazon.ca/TEKTON-3901-4-Inch-Opening-10-Piece))
 
 ## Step 1
-Prepare printed parts and acquire other parts as necessary. Below are all required printed parts except for the handle cover.
+Prepare printed parts and acquire other parts as necessary. Below are all required printed parts except for the handle cover and the bottom half of the LED chamber. All pieces should be printed in black, but the LED chamber top can be printed in white for extra LED light reflectance. 
 
 ![Parts for otoscope assembly](media/assembly/assembly-01.png)
 
@@ -39,7 +39,7 @@ Glue the neck piece and the battery compartment
 
 
 ## Step 4
-Prepare battery compartment. Roughly sand bottom of battery compartment for better glue exposure. Feed positive and negative wires through holes and solder connection between two holders to create one circuit.
+Prepare battery compartment. Roughly sand bottom of battery compartment for better glue exposure. 
 
 ![Battery compartments with wiring](media/assembly/assembly-04.png)
 ![Battery compartments with soldering between](media/assembly/assembly-05.png)
