@@ -15,8 +15,8 @@ You will need the following:
 * Other parts:
   * Completed [lens assembly](/docs/LENS_ASSEMBLY.md)
   * Battery compartment x 2 ([amazon](https://www.amazon.com/Ajax-Scientific-Battery-Holder-Lead/dp/B00EPQK3DY))
-  * Square pushbutton switch ([amazon]())
-  * White LED lights x 6 ([amazon]())
+  * Square pushbutton switch ([amazon](https://www.amazon.ca/Gikfun-Latching-Square-Contact-AE1003C/dp/B071YD9MXR))
+  * White LED lights x 6 ([amazon](https://www.amazon.ca/Gikfun-Bright-Arduino-100pcs-AE1124/dp/B01J9SEITW/ref=sr_1_4?s=electronics&ie=UTF8&qid=1518186462&sr=1-4&keywords=LED+white+3mm))
   * Cyanoacrylate glue ([amazon](https://www.amazon.ca/Gorilla-7805201-20g-Super-Glue/dp/B00K2N525I))
   * Clamps ([amazon](https://www.amazon.ca/TEKTON-3901-4-Inch-Opening-10-Piece/dp/B00BRL59UM))
   * Soldering iron
