@@ -4,7 +4,7 @@ This document explains how to make the lens part of the otoscope.
 
 You will need the following:
 
-* Printed parts:
+* Printed parts (See [Print guide](/docs/PRINT_GUIDE.md)):
   * Lens holder (large)
   * Lens holder (small)
   * Jig parts #1, #2 and #3
