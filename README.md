@@ -1,6 +1,5 @@
 Otoscope
 ========
-
 This project aims to create a research-validated otoscope whose plans are
 available freely and openly. The goal price is approximately USD$3 in parts.
 
@@ -13,18 +12,15 @@ is TAPR OHL where applicable.
 
 Bill of Materials
 =================
-
 Coming soon.
 
 
 Print Instructions
 ==================
-
 See [Print guide](docs/PRINT_GUIDE.md).
 
 
 Assembly Instructions
 =====================
-
 See [lens assembly](docs/LENS_ASSEMBLY.md) and [otoscope assembly](docs/ASSEMBLY.md).
 
