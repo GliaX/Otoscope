@@ -1,6 +1,6 @@
 # Otoscope Assembly Guide
 
-This document outlines the manufacture of a high-quality low-cost open source otoscope. In this document, we will assemble main otoscope body, including the otoscope head, neck and battery area. Lens creation is [covered in a separate guide](LENS_ASSEMBLY.md).
+This document outlines the manufacture of a high-quality low-cost open source otoscope. In this document, we will assemble main otoscope body, including the otoscope head, neck and battery area. Lens creation is [covered in a separate guide](/docs/LENS_ASSEMBLY.md).
 
 You will need the following:
 
@@ -13,7 +13,7 @@ You will need the following:
   * Outer head
 
 * Other parts:
-  * Completed [lens assembly](LENS_ASSEMBLY.md)
+  * Completed [lens assembly](/docs/LENS_ASSEMBLY.md)
   * Battery compartment x 2 ([amazon]())
   * Momentary switch ([amazon]())
   * 
@@ -23,33 +23,33 @@ You will need the following:
 ## Step 1
 Prepare printed parts and acquire other parts as necessary. Below are all required printed parts except for the handle cover and the bottom half of the LED chamber. All pieces should be printed in black, but the LED chamber top can be printed in white for extra LED light reflectance. 
 
-![Parts for otoscope assembly](media/assembly/assembly-01.png)
+![Parts for otoscope assembly](/media/assembly/assembly-01.png)
 
 
 ## Step 2
 Sand the bottom of the neck piece and the square holder area of the battery holder. Sand or file the connector appendage until a tight fit is achieved.
 
-![Battery and neck pieces](media/assembly/assembly-02.png)
+![Battery and neck pieces](/media/assembly/assembly-02.png)
 
 
 ## Step 3
 Glue the neck piece and the battery compartment
 
-![Assembled battery and neck pieces](media/assembly/assembly-03.png)
+![Assembled battery and neck pieces](/media/assembly/assembly-03.png)
 
 
 ## Step 4
 Prepare battery compartment. Roughly sand bottom of battery compartment for better glue exposure. 
 
-![Battery compartments with wiring](media/assembly/assembly-04.png)
-![Battery compartments with soldering between](media/assembly/assembly-05.png)
+![Battery compartments with wiring](/media/assembly/assembly-04.png)
+![Battery compartments with soldering between](/media/assembly/assembly-05.png)
 
 
 ## Step 5
 Place wiring through the slot in the battery holder. Glue the battery compartments to the battery holder.
 
-![Battery compartments with wiring through battery holder](media/assembly/assembly-06.png)
-![Battery compartments glued to battery holder](media/assembly/assembly-07.png)
+![Battery compartments with wiring through battery holder](/media/assembly/assembly-06.png)
+![Battery compartments glued to battery holder](/media/assembly/assembly-07.png)
 
 
 ## Step 6

@@ -20,11 +20,11 @@ Coming soon.
 Print Instructions
 ==================
 
-Coming soon.
+See [Print guide](docs/PRINT_GUIDE.md).
 
 
 Assembly Instructions
 =====================
 
-See [lens assembly](LENS_ASSEMBLY.md) and [otoscope assembly](ASSEMBLY.md)
+See [lens assembly](docs/LENS_ASSEMBLY.md) and [otoscope assembly](docs/ASSEMBLY.md).
 
