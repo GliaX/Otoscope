@@ -91,7 +91,7 @@ Glue LED chamber bottom half using CA glue or something similar.
 
 ## Step 11
 Glue LED chamber to the otoscope inner head using CA glue or similar.
-![Inner chamber of otoschope head](/media/assembly/assembly-21.png)
+![Inner chamber of otoscope head](/media/assembly/assembly-21.png)
 
 
 ## Step 12
