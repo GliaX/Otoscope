@@ -3,23 +3,29 @@
 This document explains how to orient and print the various printed parts. This guide uses [Slic3r](http://slic3r.org/)
 
 ## Print settings
-All parts should be printed with an infill of 35% and layer height of 0.2mm.
+All parts (other than the handle) should be printed with an infill of 100% and layer height of 0.12mm.  The handle should be printed with an infil of 20%.
 
 
 ## Supports
 The following parts can be printed without any supports:
   * Handle cover
-  * Lens holder (small)
-  * Lens holder (large)
-  * Jig parts #1, #2 and #3
-
-The following parts must be printed with supports touching the build plate:
-  * Neck
-  * Battery
-  * Inner head
+  * Handle coupler
+  * Button Buttom
+  * Lens bottom
+  * Lens Top
+  * Specula Holder
+  * Head Lock
+  * Button Lock
+  * Name Plate Lock
+  * Name Plate Unlimited
   
+
 The following part must be printed with full supports:
-  * Outer head
+  * Battery Compartment
+  * Head Shell
+  * Inner head
+  * Button Top
+  * Neck
 
 
 ## Orientation
