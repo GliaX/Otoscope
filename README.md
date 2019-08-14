@@ -3,7 +3,7 @@ Otoscope
 This project aims to create a research-validated otoscope whose plans are
 available freely and openly. The goal price is approximately USD$3 in parts. The current price is approximately USD$5.
 
-[![Watch the trailer](https://img.youtube.com/vi/aX0nkcNqGiI/maxresdefault.jpg)](https://youtu.be/aX0nkcNqGiI)
+[![Watch the trailer](/media/assets/youtube_thumbnail_trailer.png)](https://youtu.be/aX0nkcNqGiI)
 
 This design is based on current gold-standard designs of premium-brand
 otoscopes.
