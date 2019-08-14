@@ -1,9 +1,5 @@
-AA battery holder
-DigiKey #: BC12AAW-ND, BC12AAW
-Link: https://www.digikey.ca/product-detail/en/mpd-memory-protection-devices/BC12AAW/BC12AAW-ND/2439232
-Price: $1.90
-
-10 ohm resistor
+* AA battery holder [Digikey](Link: https://www.digikey.ca/product-detail/en/mpd-memory-protection-devices/BC12AAW/BC12AAW-ND/2439232) ($1.90)
+* 10 ohm resistor
 DigiKey #: CF14JT10R0CT-ND, CF14JT10R0
 Link: https://www.digikey.ca/product-detail/en/stackpole-electronics-inc/CF14JT10R0/CF14JT10R0CT-ND/1830306
 Price: $0.02
