@@ -16,4 +16,4 @@ is TAPR OHL where applicable.
 * [Print guide](docs/PRINT_GUIDE.md)
 * [Assembly instruction video](https://youtu.be/9h2voI1ipZM)
 * [Lens assembly guide](docs/LENS_ASSEMBLY.md)
-* [Otoscope assembly guide](docs/ASSEMBLY.md).
+* [Otoscope assembly guide](docs/ASSEMBLY.md)
