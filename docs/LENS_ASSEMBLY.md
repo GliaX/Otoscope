@@ -1,4 +1,6 @@
-# Lens Assembly
+# This document shows how to make the lens compartment for the V2 edition otoscope (legacy). A new guide for the V3 otoscope is currently in development.  The same general principles will apply.
+
+#Lens Assembly
 
 This document explains how to make the lens part of the otoscope.
 
