@@ -3,7 +3,7 @@
 This document explains how to orient and print the various printed parts. This guide uses [Slic3r](http://slic3r.org/)
 
 ## Print settings
-All parts (other than the handle) should be printed with an infill of 100% and layer height of 0.12mm.  The handle should be printed with an infil of 20%.
+All parts (other than the handle) should be printed with an infill of 100% and layer height of 0.2mm.  The handle should be printed with an infil of 20%.
 
 
 ## Supports
