@@ -12,16 +12,8 @@ The original design and work is by the talented Frankie Talarico. The license
 is TAPR OHL where applicable.
 
 
-Bill of Materials
-=================
-Coming soon.
-
-
-Print Instructions
-==================
-See [Print guide](docs/PRINT_GUIDE.md).
-
-
-Assembly Instructions
-=====================
-For the current assembly instructions, see [this video](https://youtu.be/9h2voI1ipZM). For written instructions, see [lens assembly](docs/LENS_ASSEMBLY.md) and [otoscope assembly](docs/ASSEMBLY.md).
+* [Bill of Materials](docs/BILL_OF_MATERIALS.md)
+* [Print guide](docs/PRINT_GUIDE.md)
+* [Assembly instruction video](https://youtu.be/9h2voI1ipZM)
+* [Lens assembly guide](docs/LENS_ASSEMBLY.md)
+* [Otoscope assembly guide](docs/ASSEMBLY.md).
