@@ -1,8 +1,8 @@
-###Is a Link down? Tell us, and in the meantime while we fix it, google the listing title below to find the item/ alternatives. 
+Is a Link down? Tell us, and in the meantime while we fix it, google the listing title below to find the item/ alternatives. 
 
 ## AA battery holder 
 #### Needs to be this exact model, due to the tight fitting nature on the holder in the 3D printed compartment
-*[[Digikey](https://www.digikey.ca/product-detail/en/mpd-memory-protection-devices/BC12AAW/BC12AAW-ND/2439232) $1.90]
+* [[Digikey](https://www.digikey.ca/product-detail/en/mpd-memory-protection-devices/BC12AAW/BC12AAW-ND/2439232) $1.90]
 
 ## 10 ohm resistor 
 * [[Digikey](https://www.digikey.ca/product-detail/en/stackpole-electronics-inc/CF14JT10R0/CF14JT10R0CT-ND/1830306) $0.02]
