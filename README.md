@@ -9,7 +9,7 @@ This design is based on current gold-standard designs of premium-brand
 otoscopes.
 
 The original design and work is by the talented Frankie Talarico. The license
-is TAPR OHL where applicable.
+is [TAPR OHL](https://github.com/GliaX/Otoscope/blob/master/LICENSE) where applicable.
 
 
 * [Bill of Materials](docs/BILL_OF_MATERIALS.md)
