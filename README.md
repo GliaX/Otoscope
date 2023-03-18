@@ -8,7 +8,7 @@ available freely and openly. The goal price is approximately USD$3 in parts. The
 This design is based on current gold-standard designs of premium-brand
 otoscopes.
 
-The original design and work is by the talented Frankie Talarico. The license
+The original design and work is by the talented [Frankie Talarico](https://github.com/Frankie-E4Rdesigns). The license
 is [TAPR OHL](https://github.com/GliaX/Otoscope/blob/master/LICENSE) where applicable.
 
 
