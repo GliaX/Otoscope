@@ -6,21 +6,15 @@ You will need the following:
 
 * Printed parts (See [Print guide](/docs/PRINT_GUIDE.md)):
   * Handle
-  * Battery Compartment
-  * Head Shell x2
-  * Inner Head
-  * Button Top
-  * Button Bottom
-  * Handle Coupler
-  * Lens Bottom
-  * Lens Top
-  * Specula Holder
-  * Neck
-  * Head Lock
-  * Button Lock
-  * Name Plate Lock
-  * Button Block
-  * Name Plate Unlimited
+  * Battery Holder
+  * Head
+  * Button Holder
+  * Label Plate
+  * Lens Large
+  * Lens Small
+  * Neck Cover Plate
+  * Neck LED Holder
+  * Plate Pins
 
 * Other parts:
   * 3x acrylic lens
