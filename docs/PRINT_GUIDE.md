@@ -25,5 +25,5 @@ The following parts must be printed with full supports:
 
 ## Orientation
 Orient the parts as in the build plate below:
-![Slic3r bed with all parts](/media/print_guide/print_bed.png)
+![Slic3r bed with all parts](/media/print_guide/print_bed.jpg)
 
