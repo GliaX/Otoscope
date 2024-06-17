@@ -5,7 +5,7 @@ This document explains how to orient and print the various printed parts. This g
 ## Print settings
 
 All parts (other than the handle) should be printed with an infill of 100% and layer height of 0.2mm.  The handle should be printed with an infil of 20%.
-When printing in Petg, if you have trouble getting the handle to fit, print the handle at 2% larger, and if you have trouble getting the neck_led_holder, print it at 2% smaller.
+When printing in Petg, if you have trouble getting the handle to fit, print the handle at 2% larger, and if you have trouble getting the neck_led_holder to fit, print it at 2% smaller.
 
 ## Supports
 
