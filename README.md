@@ -17,3 +17,5 @@ is [TAPR OHL](https://github.com/GliaX/Otoscope/blob/master/LICENSE) where appli
 * [Assembly instruction video](https://youtu.be/9h2voI1ipZM)
 * [Lens assembly guide](docs/LENS_ASSEMBLY.md)
 * [Otoscope assembly guide](docs/ASSEMBLY.md)
+
+For an alternative speculum holder (like the one used by Spengler), please see this folder [here](https://github.com/GliaX/Otoscope/tree/master/speculum%20adapter).
