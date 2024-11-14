@@ -1,2 +1,4 @@
 *.swp
 *.FCStd1
+*.DS_Store
+*.FCBak
