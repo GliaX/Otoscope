@@ -19,16 +19,8 @@ Is a Link down? Tell us, and in the meantime while we fix it, google the listing
 
 
 ## 3x magnification lens
-#### Probably the trickiest part to source.  Below are several links to lenses that would work with the otoscope.  Following the video tutorial, you should manipulate the lens to fit in the holder.  I recommend also checking local department stores for these items too. They can go by the name of "pocket reader", "3x magnifier with LED", and "Easy reader".  
+#### Below are two links to lenses that would work with the otoscope.  Following the [Lens Assembly Guide](https://github.com/GliaX/Otoscope/blob/master/docs/LENS_ASSEMBLY.md), you should manipulate the lens to fit in the holder. The Amazon listing below is the lens that fits the [new_lensjig2024.stl](https://github.com/GliaX/Otoscope/blob/master/lens_jig/new_lensjig2024.stl) part.  I recommend also checking local department stores for these items too. They can go by the name of "pocket reader", "3x magnifier with LED", and "Easy reader".  
 
 * Ebay Listing for a pocket reader, listing titled "A Credit Card LED Magnifier Loupe with Light Case Magnifying Glass Utility [[Ebay](https://www.ebay.com/p/Credit-Card-LED-Magnifier-Loupe-With-Light-Leather-Case-Magnifying-Glass-Utility/3029465108?iid=362601347786&rt=nc) $2.39] 
-
-* Ebay Listing for a pocket reader, listing titled "Credit Card Magnifier With LED Light Square Magnifier 3X 6X + Leather Case" [[Ebay](https://www.ebay.com/itm/Credit-Card-Magnifier-With-LED-Light-Square-Magnifier-3X-6X-Leather-Case/113707693815?hash=item1a7981b6f7:g:lO8AAOSwqpJcpcXI) $1.95]
-
-* AliExpress Listing for a pocket reader, listing titled "Pocket Ultra-thin Card Reading Magnifier Loupe Lamp 3X/6X with LED Light Magnifying Tool" [[Aliexpress](https://www.aliexpress.com/item/32305107433.html) $2.25]
-
-* Amazon Listing for a more expensive pocket reader, listing titled "Pocket Magnifying Glass with LED Light 3X Small EasY Magnifier Hand Held Lighted Magnify Glasses for Close Work Reading Books Menu Pill Bottles; Mini Lens for Visually Impaired A Low Vision Aid" [[Amazon US](https://www.amazon.com/EasY-Magnifier-Original-Magnifying-Visually/dp/B00Z6T9TXE/ref=sr_1_2?keywords=pocket+reader+3x+with+led&qid=1565995891&s=gateway&sr=8-2) $17.95]
-
-* Amazon Listing for a more expensive pocket reader, listing titled "Nicolarisin Rectangular LED Lamp Card Magnifier Business Card Magnifier Learning 3x/6x, Page Reader - Jewelers Loupe, Big Reading Aid for Pocket Map, Book, Travel" [[Amazon CA](https://www.amazon.ca/Nicolarisin-Rectangular-Magnifier-Business-Learning/dp/B07S2XRDL4/ref=sr_1_1?keywords=pocket+reader+3x+with+led&qid=1565995914&s=gateway&sr=8-1) $8.78]
 
 * Amazon Listing for small 3x magnifying glasses, listing titled "Handheld Magnifier with Safety Lanyard (Set of 10)" [[Amazon CA](https://www.amazon.ca/gp/product/B008AK673Q/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) $1.96 each]
