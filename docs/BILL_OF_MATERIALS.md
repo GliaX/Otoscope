@@ -1,11 +1,11 @@
 Is a Link down? Tell us, and in the meantime while we fix it, google the listing title below to find the item/ alternatives. 
 
-## AA battery holder 
+## AA battery case
 #### Needs to be this exact model, due to the tight fitting nature on the holder in the 3D printed compartment
 * [[Digikey](https://www.digikey.ca/product-detail/en/mpd-memory-protection-devices/BC12AAW/BC12AAW-ND/2439232) $1.90]
 
-## 10 ohm resistor 
-* [[Digikey](https://www.digikey.ca/product-detail/en/stackpole-electronics-inc/CF14JT10R0/CF14JT10R0CT-ND/1830306) $0.02]
+## 2.7 ohm resistor 
+* [[Amazon](https://www.amazon.ca/dp/B0185FHBGC?ref=ppx_yo2ov_dt_b_fed_asin_title) $0.09]
 
 ## 5mm LED light
 #### Really, any 5mm bright white LED could be used.  I like the one listed below because it is much brighter than any other LED light I've used.  Check the voltages of the LED you use, if the LED is rated for less that 3.2V, reassess which resistor you put into the circuit. 
