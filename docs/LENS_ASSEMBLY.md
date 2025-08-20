@@ -31,13 +31,13 @@ Place lens jig over lens. Use pen or fine marker to trace shape onto lens, as cl
 
 !/media/lens_assembly/fig3.jpg
 
-!/media/lens_assembly/fig4jpg
+!/media/lens_assembly/fig4.jpg
 
 **Step 3**
 
 Carefully use saw to roughly cut out traced shape just outside of traced line. In this video, a band saw is being used.
 
-!/media/lens_assembly/vid1.mp4
+!/media/lens_assembly/fig5.png
 
 **Step 4**
 
@@ -45,10 +45,14 @@ Carefully use sander to refine cut out lens so that it will fit snugly into larg
 
 There should not be any gaps between the lens and the large lens holder.
 
-!/media/lens_assembly/vid2.mp4
+!/media/lens_assembly/fig6.png
 
 **Step 5**
 
 Once the lens fits snugly into the large lens holder, carefully take off the masking tape without touching the face of the lens, and push it all the way into the large lens holder. Then push the small lens holder in to secure the lens in the holder.
 
 The fit should be snug enough that you do not need to secure the lens in the holder with glue.
+
+!/media/lens_assembly/fig7.png
+
+!/media/lens_assembly/fig8.png
