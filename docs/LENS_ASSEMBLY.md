@@ -37,7 +37,7 @@ Place lens jig over lens. Use pen or fine marker to trace shape onto lens, as cl
 
 Carefully use saw to roughly cut out traced shape just outside of traced line. In this video, a band saw is being used.
 
-!/media/lens_assembly/fig5.jpg
+!/media/lens_assembly/fig5.png
 
 **Step 4**
 
@@ -45,7 +45,7 @@ Carefully use sander to refine cut out lens so that it will fit snugly into larg
 
 There should not be any gaps between the lens and the large lens holder.
 
-!/media/lens_assembly/fig6.jpg
+!/media/lens_assembly/fig6.png
 
 **Step 5**
 
@@ -53,6 +53,6 @@ Once the lens fits snugly into the large lens holder, carefully take off the mas
 
 The fit should be snug enough that you do not need to secure the lens in the holder with glue.
 
-!/media/lens_assembly/fig7.jpg
+!/media/lens_assembly/fig7.png
 
-!/media/lens_assembly/fig8.jpg
+!/media/lens_assembly/fig8.png
