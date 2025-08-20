@@ -27,7 +27,7 @@ Cover back and front of lens with masking tape to protect it.
 
 Place lens jig over lens. Use pen or fine marker to trace shape onto lens, as close to lens jig as possible. Then take lens jig off of lens.
 
-!/media/lens_assembly/fig2.jpg
+!(/media/lens_assembly/fig2.jpg)
 
 !/media/lens_assembly/fig3.jpg
 
