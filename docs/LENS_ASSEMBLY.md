@@ -50,6 +50,4 @@ Once the lens fits snugly into the large lens holder, carefully take off the mas
 
 The fit should be snug enough that you do not need to secure the lens in the holder with glue.
 
-<img src="../media/lens_assembly/fig7.png" width="500" height="600" alt="tape off lens">
-
-<img src="../media/lens_assembly/fig8.png" width="500" height="600" alt="small lens holder holding in lens">
+<img src="../media/lens_assembly/fig7.png" width="500" height="300" alt="tape off lens"> <img src="../media/lens_assembly/fig8.png" width="300" height="300" alt="small lens holder holding in lens">
