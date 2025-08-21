@@ -7,7 +7,7 @@ You will need the following:
         3D Printed Parts:
         ◦ Lens holder (large)
         ◦ Lens holder (small)
-        ◦ Lens jig
+        ◦ Lens jig  (new_lensjig2024.stl)
         
         Other:
         ◦ Lens, 3x magnification 
